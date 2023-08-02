@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  height: 100vh; /* Adjust the height as needed */
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
+
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+
+.lightcoral {
+  background-color: lightcoral;
+  color: black;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
+
+.violet {
+  background-color: violet;
+  color: white;
+}
+
+.darkblue {
+  background-color: darkblue;
+  color: white;
+}
